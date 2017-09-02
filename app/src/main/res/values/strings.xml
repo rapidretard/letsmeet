@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">letsmeet</string>
+    <string name="launch_app">Launch App</string>
+    <string name="pref_select">Select Your Preferences Below</string>
+    <string name="checkBox_1">Bars</string>
+    <string name="CheckBoxText_1">Bars</string>
+    <string name="NextButton_SelectPreference">Next</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
